@@ -54,6 +54,8 @@ The endpoint approach is the same as the standard approach detailed in the previ
 
 To take this approach, review the documentation for publishers' integration with AMP Analytics.
 
+Google Tag Manager is [supported in AMP](https://developers.google.com/google-ads/amp/landing-pages#google_tag_manager).
+
 ## Add Batch Plugin
 Batch plugin provides an easy way to construct batched requests on client side. Follow the instructions below to add a batch plugin.
 1. Create an [Intent-To-Implement issue](../../CONTRIBUTING.md#contributing-features) stating that you'll be adding the batch plugin to your analytics service AMP HTML's runtime.
